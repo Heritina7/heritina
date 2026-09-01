@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Optionnel : configuration personnalisée pour Tailwind v4 */
+@theme {
+  --font-sans: system-ui, -apple-system, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
